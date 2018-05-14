@@ -2,5 +2,5 @@
 <br><br><br>
 
 ## Machine learning project with AWS:
-* Build linear model with Amazon Machine Learning.
+* Build simple weather prediction model with Amazon Machine Learning.
 * COMING SOON ......
